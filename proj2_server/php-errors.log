@@ -1,0 +1,240 @@
+[01-May-2015 22:13:39 America/New_York] =====Starting request: /proj2_server/restclient/
+[01-May-2015 22:13:39 America/New_York] error in client_post_dayCurl error: The requested URL returned error: 404 Not Found
+[01-May-2015 22:13:39 America/New_York] ......starting client: GET day
+[01-May-2015 22:13:39 America/New_York] error in client_post_productCurl error: The requested URL returned error: 404 Not Found
+[01-May-2015 22:15:27 America/New_York] =====Starting request: /proj2_server/restclient/
+[01-May-2015 22:15:27 America/New_York] error in client_post_dayCurl error: The requested URL returned error: 404 Not Found
+[01-May-2015 22:15:27 America/New_York] ......starting client: GET day
+[01-May-2015 22:15:27 America/New_York] error in client_post_productCurl error: The requested URL returned error: 404 Not Found
+[01-May-2015 22:16:02 America/New_York] =====Starting request: /proj2_server/restclient/
+[01-May-2015 22:16:02 America/New_York] error in client_post_dayCurl error: The requested URL returned error: 404 Not Found
+[01-May-2015 22:16:02 America/New_York] ......starting client: GET day
+[01-May-2015 22:16:02 America/New_York] error in client_post_productCurl error: The requested URL returned error: 404 Not Found
+[01-May-2015 22:16:04 America/New_York] =====Starting request: /proj2_server/restclient/
+[01-May-2015 22:16:04 America/New_York] error in client_post_dayCurl error: The requested URL returned error: 404 Not Found
+[01-May-2015 22:16:04 America/New_York] ......starting client: GET day
+[01-May-2015 22:16:04 America/New_York] error in client_post_productCurl error: The requested URL returned error: 404 Not Found
+[01-May-2015 22:52:53 America/New_York] =====Starting request: /proj2_server/restclient/
+[01-May-2015 22:52:53 America/New_York] error in client_post_dayCurl error: The requested URL returned error: 404 Not Found
+[01-May-2015 22:52:53 America/New_York] ......starting client: GET day
+[01-May-2015 22:52:53 America/New_York] error in client_post_productCurl error: The requested URL returned error: 404 Not Found
+[01-May-2015 22:53:44 America/New_York] =====Starting request: /proj2_server/restclient/
+[01-May-2015 22:53:44 America/New_York] error in client_post_dayCurl error: The requested URL returned error: 404 Not Found
+[01-May-2015 22:53:44 America/New_York] ......starting client: GET day
+[01-May-2015 22:53:44 America/New_York] error in client_post_productCurl error: The requested URL returned error: 404 Not Found
+[01-May-2015 22:57:57 America/New_York] =====Starting request: /proj2_server/restclient/
+[01-May-2015 22:57:57 America/New_York] error in client_post_dayCurl error: The requested URL returned error: 404 Not Found
+[01-May-2015 22:57:57 America/New_York] ......starting client: GET day
+[01-May-2015 22:57:57 America/New_York] error in client_post_productCurl error: The requested URL returned error: 404 Not Found
+[01-May-2015 22:58:03 America/New_York] =====Starting request: /proj2_server/restclient/
+[01-May-2015 22:58:03 America/New_York] error in client_post_dayCurl error: The requested URL returned error: 404 Not Found
+[01-May-2015 22:58:03 America/New_York] ......starting client: GET day
+[01-May-2015 22:58:03 America/New_York] error in client_post_productCurl error: The requested URL returned error: 404 Not Found
+[01-May-2015 23:04:09 America/New_York] =====Starting request: /proj2_server/restclient/
+[01-May-2015 23:04:09 America/New_York] error in client_post_dayCurl error: The requested URL returned error: 404 Not Found
+[01-May-2015 23:04:09 America/New_York] ......starting client: GET day
+[01-May-2015 23:04:09 America/New_York] error in client_post_productCurl error: The requested URL returned error: 404 Not Found
+[01-May-2015 23:07:07 America/New_York] =====Starting request: /proj2_server/restclient/
+[01-May-2015 23:07:07 America/New_York] ......starting client: GET day
+[01-May-2015 23:07:07 America/New_York] error in client_post_productCurl error: The requested URL returned error: 400 Bad Request
+[01-May-2015 23:07:32 America/New_York] =====Starting request: /proj2_server/restclient/
+[01-May-2015 23:07:32 America/New_York] error in client_post_dayCurl error: The requested URL returned error: 404 Not Found
+[01-May-2015 23:07:32 America/New_York] ......starting client: GET day
+[01-May-2015 23:07:32 America/New_York] error in client_post_productCurl error: The requested URL returned error: 404 Not Found
+[01-May-2015 23:14:48 America/New_York] =====Starting request: /proj2_server/restclient/
+[01-May-2015 23:14:48 America/New_York] ......starting client: GET day
+[01-May-2015 23:14:48 America/New_York] error in client_post_productCurl error: The requested URL returned error: 400 Bad Request
+[02-May-2015 14:03:40 America/New_York] =====Starting request: /proj2_server/restclient/index.php
+[02-May-2015 14:03:40 America/New_York] PHP Notice:  Undefined variable: app_base in C:\xampp\htdocs\proj2_server\restclient\index.php on line 7
+[02-May-2015 14:03:40 America/New_York] PHP Stack trace:
+[02-May-2015 14:03:40 America/New_York] PHP   1. {main}() C:\xampp\htdocs\proj2_server\restclient\index.php:0
+[02-May-2015 14:03:40 America/New_York] PHP Warning:  rewind() expects parameter 1 to be resource, null given in C:\xampp\htdocs\proj2_server\restclient\curl_helper.php on line 129
+[02-May-2015 14:03:40 America/New_York] PHP Stack trace:
+[02-May-2015 14:03:40 America/New_York] PHP   1. {main}() C:\xampp\htdocs\proj2_server\restclient\index.php:0
+[02-May-2015 14:03:40 America/New_York] PHP   2. client_post_day() C:\xampp\htdocs\proj2_server\restclient\index.php:13
+[02-May-2015 14:03:40 America/New_York] PHP   3. curl_request_get_location() C:\xampp\htdocs\proj2_server\restclient\index.php:93
+[02-May-2015 14:03:40 America/New_York] PHP   4. curl_request_internal() C:\xampp\htdocs\proj2_server\restclient\curl_helper.php:30
+[02-May-2015 14:03:40 America/New_York] PHP   5. verbose_debug_report() C:\xampp\htdocs\proj2_server\restclient\curl_helper.php:104
+[02-May-2015 14:03:40 America/New_York] PHP   6. rewind() C:\xampp\htdocs\proj2_server\restclient\curl_helper.php:129
+[02-May-2015 14:03:40 America/New_York] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, null given in C:\xampp\htdocs\proj2_server\restclient\curl_helper.php on line 130
+[02-May-2015 14:03:40 America/New_York] PHP Stack trace:
+[02-May-2015 14:03:40 America/New_York] PHP   1. {main}() C:\xampp\htdocs\proj2_server\restclient\index.php:0
+[02-May-2015 14:03:40 America/New_York] PHP   2. client_post_day() C:\xampp\htdocs\proj2_server\restclient\index.php:13
+[02-May-2015 14:03:40 America/New_York] PHP   3. curl_request_get_location() C:\xampp\htdocs\proj2_server\restclient\index.php:93
+[02-May-2015 14:03:40 America/New_York] PHP   4. curl_request_internal() C:\xampp\htdocs\proj2_server\restclient\curl_helper.php:30
+[02-May-2015 14:03:40 America/New_York] PHP   5. verbose_debug_report() C:\xampp\htdocs\proj2_server\restclient\curl_helper.php:104
+[02-May-2015 14:03:40 America/New_York] PHP   6. stream_get_contents() C:\xampp\htdocs\proj2_server\restclient\curl_helper.php:130
+[02-May-2015 14:03:40 America/New_York] error in client_post_dayCurl error: <url> malformed
+[02-May-2015 14:03:40 America/New_York] ......starting client: GET day
+[02-May-2015 14:03:40 America/New_York] PHP Warning:  rewind() expects parameter 1 to be resource, null given in C:\xampp\htdocs\proj2_server\restclient\curl_helper.php on line 129
+[02-May-2015 14:03:40 America/New_York] PHP Stack trace:
+[02-May-2015 14:03:40 America/New_York] PHP   1. {main}() C:\xampp\htdocs\proj2_server\restclient\index.php:0
+[02-May-2015 14:03:40 America/New_York] PHP   2. client_post_product() C:\xampp\htdocs\proj2_server\restclient\index.php:35
+[02-May-2015 14:03:40 America/New_York] PHP   3. curl_request_get_location() C:\xampp\htdocs\proj2_server\restclient\index.php:63
+[02-May-2015 14:03:40 America/New_York] PHP   4. curl_request_internal() C:\xampp\htdocs\proj2_server\restclient\curl_helper.php:30
+[02-May-2015 14:03:40 America/New_York] PHP   5. verbose_debug_report() C:\xampp\htdocs\proj2_server\restclient\curl_helper.php:104
+[02-May-2015 14:03:40 America/New_York] PHP   6. rewind() C:\xampp\htdocs\proj2_server\restclient\curl_helper.php:129
+[02-May-2015 14:03:40 America/New_York] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, null given in C:\xampp\htdocs\proj2_server\restclient\curl_helper.php on line 130
+[02-May-2015 14:03:40 America/New_York] PHP Stack trace:
+[02-May-2015 14:03:40 America/New_York] PHP   1. {main}() C:\xampp\htdocs\proj2_server\restclient\index.php:0
+[02-May-2015 14:03:40 America/New_York] PHP   2. client_post_product() C:\xampp\htdocs\proj2_server\restclient\index.php:35
+[02-May-2015 14:03:40 America/New_York] PHP   3. curl_request_get_location() C:\xampp\htdocs\proj2_server\restclient\index.php:63
+[02-May-2015 14:03:40 America/New_York] PHP   4. curl_request_internal() C:\xampp\htdocs\proj2_server\restclient\curl_helper.php:30
+[02-May-2015 14:03:40 America/New_York] PHP   5. verbose_debug_report() C:\xampp\htdocs\proj2_server\restclient\curl_helper.php:104
+[02-May-2015 14:03:40 America/New_York] PHP   6. stream_get_contents() C:\xampp\htdocs\proj2_server\restclient\curl_helper.php:130
+[02-May-2015 14:03:40 America/New_York] error in client_post_productCurl error: <url> malformed
+[02-May-2015 14:37:43 America/New_York] =====Starting request: /proj2_server/restclient/index.php
+[02-May-2015 14:37:43 America/New_York] PHP Warning:  rewind() expects parameter 1 to be resource, null given in C:\xampp\htdocs\proj2_server\restclient\curl_helper.php on line 129
+[02-May-2015 14:37:43 America/New_York] PHP Stack trace:
+[02-May-2015 14:37:43 America/New_York] PHP   1. {main}() C:\xampp\htdocs\proj2_server\restclient\index.php:0
+[02-May-2015 14:37:43 America/New_York] PHP   2. client_post_day() C:\xampp\htdocs\proj2_server\restclient\index.php:13
+[02-May-2015 14:37:43 America/New_York] PHP   3. curl_request_get_location() C:\xampp\htdocs\proj2_server\restclient\index.php:93
+[02-May-2015 14:37:43 America/New_York] PHP   4. curl_request_internal() C:\xampp\htdocs\proj2_server\restclient\curl_helper.php:30
+[02-May-2015 14:37:43 America/New_York] PHP   5. verbose_debug_report() C:\xampp\htdocs\proj2_server\restclient\curl_helper.php:104
+[02-May-2015 14:37:43 America/New_York] PHP   6. rewind() C:\xampp\htdocs\proj2_server\restclient\curl_helper.php:129
+[02-May-2015 14:37:43 America/New_York] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, null given in C:\xampp\htdocs\proj2_server\restclient\curl_helper.php on line 130
+[02-May-2015 14:37:43 America/New_York] PHP Stack trace:
+[02-May-2015 14:37:43 America/New_York] PHP   1. {main}() C:\xampp\htdocs\proj2_server\restclient\index.php:0
+[02-May-2015 14:37:43 America/New_York] PHP   2. client_post_day() C:\xampp\htdocs\proj2_server\restclient\index.php:13
+[02-May-2015 14:37:43 America/New_York] PHP   3. curl_request_get_location() C:\xampp\htdocs\proj2_server\restclient\index.php:93
+[02-May-2015 14:37:43 America/New_York] PHP   4. curl_request_internal() C:\xampp\htdocs\proj2_server\restclient\curl_helper.php:30
+[02-May-2015 14:37:43 America/New_York] PHP   5. verbose_debug_report() C:\xampp\htdocs\proj2_server\restclient\curl_helper.php:104
+[02-May-2015 14:37:43 America/New_York] PHP   6. stream_get_contents() C:\xampp\htdocs\proj2_server\restclient\curl_helper.php:130
+[02-May-2015 14:37:43 America/New_York] error in client_post_dayCurl error: <url> malformed
+[02-May-2015 14:37:43 America/New_York] ......starting client: GET day
+[02-May-2015 14:37:43 America/New_York] PHP Warning:  rewind() expects parameter 1 to be resource, null given in C:\xampp\htdocs\proj2_server\restclient\curl_helper.php on line 129
+[02-May-2015 14:37:43 America/New_York] PHP Stack trace:
+[02-May-2015 14:37:43 America/New_York] PHP   1. {main}() C:\xampp\htdocs\proj2_server\restclient\index.php:0
+[02-May-2015 14:37:43 America/New_York] PHP   2. client_post_product() C:\xampp\htdocs\proj2_server\restclient\index.php:35
+[02-May-2015 14:37:43 America/New_York] PHP   3. curl_request_get_location() C:\xampp\htdocs\proj2_server\restclient\index.php:63
+[02-May-2015 14:37:43 America/New_York] PHP   4. curl_request_internal() C:\xampp\htdocs\proj2_server\restclient\curl_helper.php:30
+[02-May-2015 14:37:43 America/New_York] PHP   5. verbose_debug_report() C:\xampp\htdocs\proj2_server\restclient\curl_helper.php:104
+[02-May-2015 14:37:43 America/New_York] PHP   6. rewind() C:\xampp\htdocs\proj2_server\restclient\curl_helper.php:129
+[02-May-2015 14:37:43 America/New_York] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, null given in C:\xampp\htdocs\proj2_server\restclient\curl_helper.php on line 130
+[02-May-2015 14:37:43 America/New_York] PHP Stack trace:
+[02-May-2015 14:37:43 America/New_York] PHP   1. {main}() C:\xampp\htdocs\proj2_server\restclient\index.php:0
+[02-May-2015 14:37:43 America/New_York] PHP   2. client_post_product() C:\xampp\htdocs\proj2_server\restclient\index.php:35
+[02-May-2015 14:37:43 America/New_York] PHP   3. curl_request_get_location() C:\xampp\htdocs\proj2_server\restclient\index.php:63
+[02-May-2015 14:37:43 America/New_York] PHP   4. curl_request_internal() C:\xampp\htdocs\proj2_server\restclient\curl_helper.php:30
+[02-May-2015 14:37:43 America/New_York] PHP   5. verbose_debug_report() C:\xampp\htdocs\proj2_server\restclient\curl_helper.php:104
+[02-May-2015 14:37:43 America/New_York] PHP   6. stream_get_contents() C:\xampp\htdocs\proj2_server\restclient\curl_helper.php:130
+[02-May-2015 14:37:43 America/New_York] error in client_post_productCurl error: <url> malformed
+[02-May-2015 14:38:10 America/New_York] =====Starting request: /proj2_server/restclient/index.php
+[02-May-2015 14:38:10 America/New_York] PHP Warning:  rewind() expects parameter 1 to be resource, null given in C:\xampp\htdocs\proj2_server\restclient\curl_helper.php on line 129
+[02-May-2015 14:38:10 America/New_York] PHP Stack trace:
+[02-May-2015 14:38:10 America/New_York] PHP   1. {main}() C:\xampp\htdocs\proj2_server\restclient\index.php:0
+[02-May-2015 14:38:10 America/New_York] PHP   2. client_post_day() C:\xampp\htdocs\proj2_server\restclient\index.php:13
+[02-May-2015 14:38:10 America/New_York] PHP   3. curl_request_get_location() C:\xampp\htdocs\proj2_server\restclient\index.php:93
+[02-May-2015 14:38:10 America/New_York] PHP   4. curl_request_internal() C:\xampp\htdocs\proj2_server\restclient\curl_helper.php:30
+[02-May-2015 14:38:10 America/New_York] PHP   5. verbose_debug_report() C:\xampp\htdocs\proj2_server\restclient\curl_helper.php:104
+[02-May-2015 14:38:10 America/New_York] PHP   6. rewind() C:\xampp\htdocs\proj2_server\restclient\curl_helper.php:129
+[02-May-2015 14:38:10 America/New_York] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, null given in C:\xampp\htdocs\proj2_server\restclient\curl_helper.php on line 130
+[02-May-2015 14:38:10 America/New_York] PHP Stack trace:
+[02-May-2015 14:38:10 America/New_York] PHP   1. {main}() C:\xampp\htdocs\proj2_server\restclient\index.php:0
+[02-May-2015 14:38:10 America/New_York] PHP   2. client_post_day() C:\xampp\htdocs\proj2_server\restclient\index.php:13
+[02-May-2015 14:38:10 America/New_York] PHP   3. curl_request_get_location() C:\xampp\htdocs\proj2_server\restclient\index.php:93
+[02-May-2015 14:38:10 America/New_York] PHP   4. curl_request_internal() C:\xampp\htdocs\proj2_server\restclient\curl_helper.php:30
+[02-May-2015 14:38:10 America/New_York] PHP   5. verbose_debug_report() C:\xampp\htdocs\proj2_server\restclient\curl_helper.php:104
+[02-May-2015 14:38:10 America/New_York] PHP   6. stream_get_contents() C:\xampp\htdocs\proj2_server\restclient\curl_helper.php:130
+[02-May-2015 14:38:10 America/New_York] error in client_post_dayCurl error: <url> malformed
+[02-May-2015 14:38:10 America/New_York] ......starting client: GET day
+[02-May-2015 14:38:10 America/New_York] PHP Warning:  rewind() expects parameter 1 to be resource, null given in C:\xampp\htdocs\proj2_server\restclient\curl_helper.php on line 129
+[02-May-2015 14:38:10 America/New_York] PHP Stack trace:
+[02-May-2015 14:38:10 America/New_York] PHP   1. {main}() C:\xampp\htdocs\proj2_server\restclient\index.php:0
+[02-May-2015 14:38:10 America/New_York] PHP   2. client_post_product() C:\xampp\htdocs\proj2_server\restclient\index.php:35
+[02-May-2015 14:38:10 America/New_York] PHP   3. curl_request_get_location() C:\xampp\htdocs\proj2_server\restclient\index.php:63
+[02-May-2015 14:38:10 America/New_York] PHP   4. curl_request_internal() C:\xampp\htdocs\proj2_server\restclient\curl_helper.php:30
+[02-May-2015 14:38:10 America/New_York] PHP   5. verbose_debug_report() C:\xampp\htdocs\proj2_server\restclient\curl_helper.php:104
+[02-May-2015 14:38:10 America/New_York] PHP   6. rewind() C:\xampp\htdocs\proj2_server\restclient\curl_helper.php:129
+[02-May-2015 14:38:10 America/New_York] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, null given in C:\xampp\htdocs\proj2_server\restclient\curl_helper.php on line 130
+[02-May-2015 14:38:10 America/New_York] PHP Stack trace:
+[02-May-2015 14:38:10 America/New_York] PHP   1. {main}() C:\xampp\htdocs\proj2_server\restclient\index.php:0
+[02-May-2015 14:38:10 America/New_York] PHP   2. client_post_product() C:\xampp\htdocs\proj2_server\restclient\index.php:35
+[02-May-2015 14:38:10 America/New_York] PHP   3. curl_request_get_location() C:\xampp\htdocs\proj2_server\restclient\index.php:63
+[02-May-2015 14:38:10 America/New_York] PHP   4. curl_request_internal() C:\xampp\htdocs\proj2_server\restclient\curl_helper.php:30
+[02-May-2015 14:38:10 America/New_York] PHP   5. verbose_debug_report() C:\xampp\htdocs\proj2_server\restclient\curl_helper.php:104
+[02-May-2015 14:38:10 America/New_York] PHP   6. stream_get_contents() C:\xampp\htdocs\proj2_server\restclient\curl_helper.php:130
+[02-May-2015 14:38:10 America/New_York] error in client_post_productCurl error: <url> malformed
+[02-May-2015 14:42:35 America/New_York] =====Starting request: /proj2_server/restclient/index.php
+[02-May-2015 14:42:35 America/New_York] error in client_post_dayCurl error: <url> malformed
+[02-May-2015 14:42:35 America/New_York] ......starting client: GET day
+[02-May-2015 14:42:35 America/New_York] error in client_post_productCurl error: <url> malformed
+[02-May-2015 14:45:04 America/New_York] =====Starting request: /proj2_server/restclient/index.php
+[02-May-2015 14:45:04 America/New_York] error in client_post_dayCurl error: <url> malformed
+[02-May-2015 14:45:04 America/New_York] ......starting client: GET day
+[02-May-2015 14:45:04 America/New_York] error in client_post_productCurl error: <url> malformed
+[02-May-2015 14:46:40 America/New_York] =====Starting request: /proj2_server/restclient/index.php
+[02-May-2015 14:46:40 America/New_York] error in client_post_dayCurl error: <url> malformed
+[02-May-2015 14:46:40 America/New_York] ......starting client: GET day
+[02-May-2015 14:46:40 America/New_York] error in client_post_productCurl error: <url> malformed
+[02-May-2015 14:48:43 America/New_York] =====Starting request: /proj2_server/restclient/index.php
+[02-May-2015 14:48:43 America/New_York] error in client_post_dayCurl error: <url> malformed
+[02-May-2015 14:48:43 America/New_York] ......starting client: GET day
+[02-May-2015 14:48:43 America/New_York] error in client_post_productCurl error: <url> malformed
+[02-May-2015 14:48:57 America/New_York] =====Starting request: /proj2_server/restclient/index.php
+[02-May-2015 14:48:57 America/New_York] error in client_post_dayCurl error: <url> malformed
+[02-May-2015 14:48:57 America/New_York] ......starting client: GET day
+[02-May-2015 14:48:57 America/New_York] error in client_post_productCurl error: <url> malformed
+[02-May-2015 14:53:16 America/New_York] =====Starting request: /proj2_server/restclient/index.php
+[02-May-2015 14:53:16 America/New_York] PHP Notice:  Use of undefined constant SERVER_NAME - assumed 'SERVER_NAME' in C:\xampp\htdocs\proj2_server\restclient\index.php on line 7
+[02-May-2015 14:53:16 America/New_York] PHP Stack trace:
+[02-May-2015 14:53:16 America/New_York] PHP   1. {main}() C:\xampp\htdocs\proj2_server\restclient\index.php:0
+[02-May-2015 14:53:16 America/New_York] ......starting client: GET day
+[02-May-2015 14:53:16 America/New_York] error in client_post_productCurl error: The requested URL returned error: 400 Bad Request
+[02-May-2015 14:53:17 America/New_York] =====Starting request: /proj2_server/restclient/index.php
+[02-May-2015 14:53:17 America/New_York] PHP Notice:  Use of undefined constant SERVER_NAME - assumed 'SERVER_NAME' in C:\xampp\htdocs\proj2_server\restclient\index.php on line 7
+[02-May-2015 14:53:17 America/New_York] PHP Stack trace:
+[02-May-2015 14:53:17 America/New_York] PHP   1. {main}() C:\xampp\htdocs\proj2_server\restclient\index.php:0
+[02-May-2015 14:53:17 America/New_York] ......starting client: GET day
+[02-May-2015 14:53:17 America/New_York] error in client_post_productCurl error: The requested URL returned error: 400 Bad Request
+[02-May-2015 14:53:34 America/New_York] =====Starting request: /proj2_server/restclient/index.php
+[02-May-2015 14:53:34 America/New_York] ......starting client: GET day
+[02-May-2015 14:53:34 America/New_York] error in client_post_productCurl error: The requested URL returned error: 400 Bad Request
+[02-May-2015 14:57:21 America/New_York] =====Starting request: /proj2_server/restclient/index.php
+[02-May-2015 14:57:21 America/New_York] ......starting client: GET day
+[02-May-2015 14:57:21 America/New_York] error in client_post_productCurl error: The requested URL returned error: 400 Bad Request
+[02-May-2015 15:00:53 America/New_York] =====Starting request: /proj2_server/restclient/index.php
+[02-May-2015 15:00:53 America/New_York] ......starting client: GET day
+[02-May-2015 15:00:54 America/New_York] error in client_post_productCurl error: The requested URL returned error: 400 Bad Request
+[02-May-2015 15:03:48 America/New_York] =====Starting request: /proj2_server/restclient/index.php
+[02-May-2015 15:03:48 America/New_York] ......starting client: GET day
+[02-May-2015 15:03:48 America/New_York] error in client_post_productCurl error: The requested URL returned error: 400 Bad Request
+[02-May-2015 15:06:38 America/New_York] =====Starting request: /proj2_server/restclient/index.php
+[02-May-2015 15:06:38 America/New_York] ......starting client: GET day
+[02-May-2015 15:06:39 America/New_York] error in client_post_productCurl error: The requested URL returned error: 400 Bad Request
+[02-May-2015 15:07:20 America/New_York] =====Starting request: /proj2_server/restclient/index.php
+[02-May-2015 15:07:20 America/New_York] ......starting client: GET day
+[02-May-2015 15:07:20 America/New_York] error in client_post_productCurl error: The requested URL returned error: 400 Bad Request
+[02-May-2015 15:08:03 America/New_York] =====Starting request: /proj2_server/restclient/index.php
+[02-May-2015 15:08:03 America/New_York] ......starting client: GET day
+[02-May-2015 15:08:03 America/New_York] error in client_post_productCurl error: The requested URL returned error: 400 Bad Request
+[02-May-2015 15:10:01 America/New_York] =====Starting request: /proj2_server/restclient/index.php
+[02-May-2015 15:10:01 America/New_York] ......starting client: GET day
+[02-May-2015 15:10:01 America/New_York] error in client_post_productCurl error: The requested URL returned error: 400 Bad Request
+[02-May-2015 15:10:11 America/New_York] =====Starting request: /proj2_server/restclient/index.php
+[02-May-2015 15:10:11 America/New_York] ......starting client: GET day
+[02-May-2015 15:10:11 America/New_York] error in client_post_productCurl error: The requested URL returned error: 400 Bad Request
+[02-May-2015 15:12:38 America/New_York] =====Starting request: /proj2_server/restclient/index.php
+[02-May-2015 15:12:38 America/New_York] ......starting client: GET day
+[02-May-2015 15:12:38 America/New_York] error in client_post_productCurl error: The requested URL returned error: 400 Bad Request
+[02-May-2015 15:12:48 America/New_York] =====Starting request: /proj2_server/restclient/index.php
+[02-May-2015 15:12:48 America/New_York] ......starting client: GET day
+[02-May-2015 15:12:48 America/New_York] error in client_post_productCurl error: The requested URL returned error: 400 Bad Request
+[02-May-2015 15:13:05 America/New_York] =====Starting request: /proj2_server/restclient/index.php
+[02-May-2015 15:13:05 America/New_York] ......starting client: GET day
+[02-May-2015 15:13:05 America/New_York] error in client_post_productCurl error: The requested URL returned error: 400 Bad Request
+[02-May-2015 15:13:45 America/New_York] =====Starting request: /proj2_server/restclient/index.php
+[02-May-2015 15:13:45 America/New_York] ......starting client: GET day
+[02-May-2015 15:13:45 America/New_York] error in client_post_productCurl error: The requested URL returned error: 400 Bad Request
+[02-May-2015 15:17:13 America/New_York] =====Starting request: /proj2_server/restclient/index.php
+[02-May-2015 15:17:13 America/New_York] ......starting client: GET day
+[02-May-2015 15:17:13 America/New_York] error in client_post_productCurl error: The requested URL returned error: 400 Bad Request
+[02-May-2015 15:18:21 America/New_York] =====Starting request: /proj2_server/restclient/index.php
+[02-May-2015 15:18:21 America/New_York] ......starting client: GET day
+[02-May-2015 15:18:21 America/New_York] error in client_post_productCurl error: The requested URL returned error: 400 Bad Request
+[02-May-2015 15:19:07 America/New_York] =====Starting request: /proj2_server/restclient/index.php
+[02-May-2015 15:19:07 America/New_York] ......starting client: GET day
+[02-May-2015 15:19:07 America/New_York] error in client_post_productCurl error: The requested URL returned error: 400 Bad Request
+[02-May-2015 15:19:08 America/New_York] =====Starting request: /proj2_server/restclient/index.php
+[02-May-2015 15:19:08 America/New_York] ......starting client: GET day
+[02-May-2015 15:19:08 America/New_York] error in client_post_productCurl error: The requested URL returned error: 400 Bad Request

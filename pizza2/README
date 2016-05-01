@@ -1,0 +1,15 @@
+README for pizza1  solution
+Thanks to Indus S. for most of the code in this solution.
+
+Please make sure you can run the project on topcat, because
+that's where the grader will run it.  See database.php for
+code that lets you run on topcat. You need to put your own
+username there.
+
+Some students used session variables, but we have not yet 
+covered that topic, so read this solution to see how the
+room number is passed from request to request in the student
+pages via a room parameter.
+
+The student forms have method = GET so we can see the parameters.
+

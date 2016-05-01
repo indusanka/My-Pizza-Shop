@@ -1,0 +1,106 @@
+[02-May-2015 16:16:35 America/New_York] =====Starting request: /pizza2/pizza/
+[02-May-2015 16:17:34 America/New_York] =====Starting request: /pizza2/pizza/
+[02-May-2015 16:22:33 America/New_York] =====Starting request: /pizza2/pizza/
+[02-May-2015 16:22:33 America/New_York] PHP Notice:  Use of undefined constant images - assumed 'images' in C:\xampp\htdocs\pizza2\view\header.php on line 14
+[02-May-2015 16:22:33 America/New_York] PHP Stack trace:
+[02-May-2015 16:22:33 America/New_York] PHP   1. {main}() C:\xampp\htdocs\pizza2\pizza\index.php:0
+[02-May-2015 16:22:33 America/New_York] PHP   2. include() C:\xampp\htdocs\pizza2\pizza\index.php:33
+[02-May-2015 16:22:33 America/New_York] PHP   3. include() C:\xampp\htdocs\pizza2\pizza\student_welcome.php:1
+[02-May-2015 16:22:33 America/New_York] PHP Notice:  Use of undefined constant pizzapie - assumed 'pizzapie' in C:\xampp\htdocs\pizza2\view\header.php on line 14
+[02-May-2015 16:22:33 America/New_York] PHP Stack trace:
+[02-May-2015 16:22:33 America/New_York] PHP   1. {main}() C:\xampp\htdocs\pizza2\pizza\index.php:0
+[02-May-2015 16:22:33 America/New_York] PHP   2. include() C:\xampp\htdocs\pizza2\pizza\index.php:33
+[02-May-2015 16:22:33 America/New_York] PHP   3. include() C:\xampp\htdocs\pizza2\pizza\student_welcome.php:1
+[02-May-2015 16:22:33 America/New_York] PHP Warning:  Division by zero in C:\xampp\htdocs\pizza2\view\header.php on line 14
+[02-May-2015 16:22:33 America/New_York] PHP Stack trace:
+[02-May-2015 16:22:33 America/New_York] PHP   1. {main}() C:\xampp\htdocs\pizza2\pizza\index.php:0
+[02-May-2015 16:22:33 America/New_York] PHP   2. include() C:\xampp\htdocs\pizza2\pizza\index.php:33
+[02-May-2015 16:22:33 America/New_York] PHP   3. include() C:\xampp\htdocs\pizza2\pizza\student_welcome.php:1
+[02-May-2015 16:22:33 America/New_York] PHP Notice:  Use of undefined constant jpg - assumed 'jpg' in C:\xampp\htdocs\pizza2\view\header.php on line 14
+[02-May-2015 16:22:33 America/New_York] PHP Stack trace:
+[02-May-2015 16:22:33 America/New_York] PHP   1. {main}() C:\xampp\htdocs\pizza2\pizza\index.php:0
+[02-May-2015 16:22:33 America/New_York] PHP   2. include() C:\xampp\htdocs\pizza2\pizza\index.php:33
+[02-May-2015 16:22:33 America/New_York] PHP   3. include() C:\xampp\htdocs\pizza2\pizza\student_welcome.php:1
+[02-May-2015 16:22:55 America/New_York] =====Starting request: /pizza2/pizza/
+[02-May-2015 16:23:44 America/New_York] =====Starting request: /pizza2/pizza/
+[02-May-2015 16:25:59 America/New_York] =====Starting request: /pizza2/pizza/
+[02-May-2015 16:28:26 America/New_York] =====Starting request: /pizza2/pizza/
+[02-May-2015 16:29:06 America/New_York] =====Starting request: /pizza2/pizza/?action=order_pizza&room=1
+[02-May-2015 16:29:11 America/New_York] =====Starting request: /pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=1
+[02-May-2015 16:29:11 America/New_York] =====Starting request: /pizza2/pizza/?room=1
+[02-May-2015 16:29:52 America/New_York] =====Starting request: /pizza2/admin/
+[02-May-2015 16:31:31 America/New_York] =====Starting request: /pizza2/admin/topping/
+[02-May-2015 16:31:34 America/New_York] =====Starting request: /pizza2/admin/topping/?action=show_add_form
+[02-May-2015 16:31:40 America/New_York] =====Starting request: /pizza2/admin/topping/index.php
+[02-May-2015 16:31:40 America/New_York] =====Starting request: /pizza2/admin/topping/
+[02-May-2015 16:31:50 America/New_York] =====Starting request: /pizza2/admin/
+[02-May-2015 16:31:51 America/New_York] =====Starting request: /pizza2/admin/size/
+[02-May-2015 16:31:53 America/New_York] =====Starting request: /pizza2/admin/size/?action=show_add_form
+[02-May-2015 16:31:57 America/New_York] =====Starting request: /pizza2/admin/size/index.php
+[02-May-2015 16:31:57 America/New_York] =====Starting request: /pizza2/admin/size/
+[02-May-2015 16:32:00 America/New_York] =====Starting request: /pizza2/admin/
+[02-May-2015 16:32:01 America/New_York] =====Starting request: /pizza2/admin/day/
+[02-May-2015 16:32:13 America/New_York] =====Starting request: /pizza2/admin/
+[02-May-2015 16:32:15 America/New_York] =====Starting request: /pizza2/admin/order/
+[02-May-2015 16:32:21 America/New_York] =====Starting request: /pizza2/admin/order/index.php
+[02-May-2015 16:32:21 America/New_York] =====Starting request: /pizza2/admin/order/
+[02-May-2015 16:32:40 America/New_York] =====Starting request: /pizza2/admin/order/index.php
+[02-May-2015 16:32:40 America/New_York] PHP Fatal error:  Call to undefined function initial_db() in C:\xampp\htdocs\pizza2\admin\order\index.php on line 38
+[02-May-2015 16:32:40 America/New_York] PHP Stack trace:
+[02-May-2015 16:32:40 America/New_York] PHP   1. {main}() C:\xampp\htdocs\pizza2\admin\order\index.php:0
+[02-May-2015 16:35:36 America/New_York] =====Starting request: /pizza2/admin/order/index.php
+[02-May-2015 16:35:36 America/New_York] PHP Fatal error:  Call to undefined function initial_db() in C:\xampp\htdocs\pizza2\admin\order\index.php on line 38
+[02-May-2015 16:35:36 America/New_York] PHP Stack trace:
+[02-May-2015 16:35:36 America/New_York] PHP   1. {main}() C:\xampp\htdocs\pizza2\admin\order\index.php:0
+[02-May-2015 16:38:22 America/New_York] =====Starting request: /pizza2/admin/order/index.php
+[02-May-2015 16:38:22 America/New_York] PHP Warning:  require(../../model/initial_db.php): failed to open stream: No such file or directory in C:\xampp\htdocs\pizza2\admin\order\index.php on line 5
+[02-May-2015 16:38:22 America/New_York] PHP Stack trace:
+[02-May-2015 16:38:22 America/New_York] PHP   1. {main}() C:\xampp\htdocs\pizza2\admin\order\index.php:0
+[02-May-2015 16:38:22 America/New_York] PHP Fatal error:  require(): Failed opening required '../../model/initial_db.php' (include_path='C:/xampp/htdocs/pizza2/') in C:\xampp\htdocs\pizza2\admin\order\index.php on line 5
+[02-May-2015 16:38:22 America/New_York] PHP Stack trace:
+[02-May-2015 16:38:22 America/New_York] PHP   1. {main}() C:\xampp\htdocs\pizza2\admin\order\index.php:0
+[02-May-2015 16:38:55 America/New_York] =====Starting request: /pizza2/admin/order/index.php
+[02-May-2015 16:39:48 America/New_York] =====Starting request: /pizza2/admin/order/index.php
+[02-May-2015 16:39:49 America/New_York] =====Starting request: /pizza2/admin/order/
+[02-May-2015 16:40:00 America/New_York] =====Starting request: /pizza2/admin/order/index.php
+[02-May-2015 16:40:00 America/New_York] =====Starting request: /pizza2/admin/order/
+[02-May-2015 16:40:04 America/New_York] =====Starting request: /pizza2/admin/order/index.php
+[02-May-2015 16:40:04 America/New_York] =====Starting request: /pizza2/admin/order/
+[02-May-2015 16:40:11 America/New_York] =====Starting request: /pizza2/admin/
+[02-May-2015 16:40:11 America/New_York] PHP Warning:  require(../model/initial.php): failed to open stream: No such file or directory in C:\xampp\htdocs\pizza2\admin\index.php on line 4
+[02-May-2015 16:40:11 America/New_York] PHP Stack trace:
+[02-May-2015 16:40:11 America/New_York] PHP   1. {main}() C:\xampp\htdocs\pizza2\admin\index.php:0
+[02-May-2015 16:40:11 America/New_York] PHP Fatal error:  require(): Failed opening required '../model/initial.php' (include_path='C:/xampp/htdocs/pizza2/') in C:\xampp\htdocs\pizza2\admin\index.php on line 4
+[02-May-2015 16:40:11 America/New_York] PHP Stack trace:
+[02-May-2015 16:40:11 America/New_York] PHP   1. {main}() C:\xampp\htdocs\pizza2\admin\index.php:0
+[02-May-2015 16:40:57 America/New_York] =====Starting request: /pizza2/admin/
+[02-May-2015 16:42:05 America/New_York] =====Starting request: /pizza2/admin/
+[02-May-2015 16:42:09 America/New_York] =====Starting request: /pizza2/admin/topping/
+[02-May-2015 16:42:11 America/New_York] =====Starting request: /pizza2/admin/
+[02-May-2015 16:42:12 America/New_York] =====Starting request: /pizza2/admin/size/
+[02-May-2015 16:42:13 America/New_York] =====Starting request: /pizza2/admin/
+[02-May-2015 16:42:14 America/New_York] =====Starting request: /pizza2/admin/day/
+[02-May-2015 16:42:18 America/New_York] =====Starting request: /pizza2/admin/
+[02-May-2015 16:42:19 America/New_York] =====Starting request: /pizza2/admin/order/
+[02-May-2015 16:42:22 America/New_York] =====Starting request: /pizza2/admin/
+[02-May-2015 16:42:23 America/New_York] =====Starting request: /pizza2/admin/topping/
+[02-May-2015 16:42:25 America/New_York] =====Starting request: /pizza2/admin/
+[02-May-2015 16:42:26 America/New_York] =====Starting request: /pizza2/admin/size/
+[02-May-2015 16:46:04 America/New_York] =====Starting request: /pizza2/pizza/
+[02-May-2015 16:46:05 America/New_York] =====Starting request: /pizza2/pizza/?action=order_pizza&room=1
+[02-May-2015 16:46:30 America/New_York] =====Starting request: /pizza2/pizza/?action=order_pizza&room=1
+[02-May-2015 16:46:57 America/New_York] =====Starting request: /pizza2/pizza/?action=order_pizza&room=1
+[02-May-2015 16:46:58 America/New_York] =====Starting request: /pizza2/pizza/?action=order_pizza&room=1
+[02-May-2015 16:49:58 America/New_York] =====Starting request: /pizza2/pizza/
+[02-May-2015 16:50:01 America/New_York] =====Starting request: /pizza2/pizza/?action=order_pizza&room=1
+[02-May-2015 16:51:05 America/New_York] =====Starting request: /pizza2/pizza/?action=order_pizza&room=1
+[02-May-2015 16:53:38 America/New_York] =====Starting request: /pizza2/pizza/?action=order_pizza&room=1
+[02-May-2015 16:59:11 America/New_York] =====Starting request: /pizza2/pizza/?action=order_pizza&room=1
+[02-May-2015 16:59:22 America/New_York] =====Starting request: /pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=1&n=
+[02-May-2015 16:59:22 America/New_York] =====Starting request: /pizza2/pizza/?room=1
+[02-May-2015 16:59:52 America/New_York] =====Starting request: /pizza2/pizza/?action=order_pizza&room=1
+[02-May-2015 17:00:59 America/New_York] =====Starting request: /pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=1&n=10
+[02-May-2015 17:01:01 America/New_York] =====Starting request: /pizza2/pizza/?room=1
+[02-May-2015 17:02:11 America/New_York] =====Starting request: /pizza2/pizza/?action=order_pizza&room=1
+[02-May-2015 17:02:23 America/New_York] =====Starting request: /pizza2/pizza/index.php?action=add_order&pizza_size=1&pizza_topping%5B%5D=1&room=1&n=200
+[02-May-2015 17:02:44 America/New_York] =====Starting request: /pizza2/pizza/?room=1
